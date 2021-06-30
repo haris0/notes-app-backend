@@ -1,5 +1,5 @@
 # Notes Web Service
-This web service to create, get, update, and delete notes, developed using [Hapi](https://hapi.dev/), based on dicoding course "Belajar Membuat Aplikasi Back-End untuk Pemula".
+This web service to create, get, update, and delete notes, developed using [Hapi](https://hapi.dev/), based on dicoding course ["Belajar Membuat Aplikasi Back-End untuk Pemula"](https://www.dicoding.com/academies/261).
 
 ## Build Setup
 ``` bash
