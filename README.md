@@ -7,7 +7,10 @@ This web service to create, get, update, and delete notes, developed using [Hapi
 npm install
 
 # runs the app in the development mode.
-npm run start
+npm run dev
+
+# runs the app in the production mode.
+npm run prod
 
 ```
 
